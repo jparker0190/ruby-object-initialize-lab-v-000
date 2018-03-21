@@ -3,5 +3,6 @@ class Dog
     @dog = dog
     end
     def dog(dog)
+      dog
   end
 end
