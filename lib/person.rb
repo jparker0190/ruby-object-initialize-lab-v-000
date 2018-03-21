@@ -1,7 +1,12 @@
-class Person
-  def intialize(name)
-    @name = name
-end
-def name(name)
-end
+class Dog
+  def initialize(dog)
+  @name = name
+  end
+  
+  def dog=(dog)
+    @dog = dog
+    end
+    def dog(dog)
+      @dog
+  end
 end
